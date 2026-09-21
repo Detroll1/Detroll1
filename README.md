@@ -4,6 +4,8 @@
 
 Живые страницы: [detroll1.github.io](https://detroll1.github.io)
 
+Услуги с ценой и сроком: [detroll1.github.io/uslugi](https://detroll1.github.io/uslugi) — лендинг, вёрстка по макету, каталог, Telegram-бот, парсер в Excel, мини-апп, доработка сайта, аудит первого экрана, ИИ-агент.
+
 Из того, что можно потыкать:
 
 - [Pulse](https://detroll1.github.io/pulse) — каталог и плеер (превью iTunes)
